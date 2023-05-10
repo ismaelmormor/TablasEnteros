@@ -1,1 +1,2 @@
 # TablasEnteros
+Tenemos 3 ramas. La main con el Readme.md, la master con todo el proyecto y la rama de wei (el B), con todo el proyecto también. La rama master fue donde el colaborador A creó todo el proyecto, y subió todo. En el test hizo 2 tests. Luego, el colaborador B creó otros 2 tests en su rama, y luego hicimos un merge. Creemos que no sale pull request, pero porque no encontramos la opción. Así que hicimos un push normal. Todos los cambios están hechos y las ramas master y wei fueron fusionadas aunque todavía siguen existiendo por separado.
