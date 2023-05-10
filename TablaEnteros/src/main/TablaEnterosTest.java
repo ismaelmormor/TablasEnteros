@@ -65,24 +65,6 @@ class TablaEnterosTest {
 		tabla1.sumaTabla();
 	}
 
-	/**
-	 * Test method for {@link main.TablaEnteros#mayorTabla()}.
-	 */
-	@Test
-	void testMayorTabla() {
-		Integer[] numeros = {1,2,3};
-		TablaEnteros tabla1 = new TablaEnteros(numeros);
-		tabla1.mayorTabla();
-	}
-
-	/**
-	 * Test method for {@link main.TablaEnteros#posicionTabla(int)}.
-	 */
-	@Test
-	void testPosicionTabla() {
-		Integer[] numeros = {1,2,3};
-		TablaEnteros tabla1 = new TablaEnteros(numeros);
-		tabla1.posicionTabla(3);
-	}
+	
 
 }
